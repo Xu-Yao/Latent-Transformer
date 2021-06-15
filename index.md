@@ -33,21 +33,21 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Xu-Yao/Latent-Transformer/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-{% include googleDrivePlayer.html id=1QTMCvseB4X81T8JIDOGLxx7ZsIu975_g/preview %}
+{% include googleDrivePlayer1.html id=1QTMCvseB4X81T8JIDOGLxx7ZsIu975_g/preview %}
 
-{% include googleDrivePlayer.html id=1p3aebCQnJO3csMTEV_ieY3EKeeglcbum/preview %}
+{% include googleDrivePlayer2.html id=1p3aebCQnJO3csMTEV_ieY3EKeeglcbum/preview %}
 
-{% include googleDrivePlayer.html id=1A7aYL4RdU6XMU3X9C0lK1OgfV3D1TEAh/preview %}
+{% include googleDrivePlayer3.html id=1A7aYL4RdU6XMU3X9C0lK1OgfV3D1TEAh/preview %}
 
-{% include googleDrivePlayer.html id=1CgDsR9kT04wGxmr2zQa0BZOK5HjiiuQ2/preview %}
+{% include googleDrivePlayer4.html id=1CgDsR9kT04wGxmr2zQa0BZOK5HjiiuQ2/preview %}
 
-{% include googleDrivePlayer.html id=1klVJtRCXU6mga7z3kEZ2pKOiq6PHCz6w/preview %}
+{% include googleDrivePlayer5.html id=1klVJtRCXU6mga7z3kEZ2pKOiq6PHCz6w/preview %}
 
-{% include googleDrivePlayer.html id=1NzFD6QmDYLiX1qfEnoYyBzuqtr2iqu4v/preview %}
+{% include googleDrivePlayer6.html id=1NzFD6QmDYLiX1qfEnoYyBzuqtr2iqu4v/preview %}
 
-{% include googleDrivePlayer.html id=1jtcV-9V6qNCEayCUrHhUf1e_aYq7z3Tf/preview %}
+{% include googleDrivePlayer7.html id=1jtcV-9V6qNCEayCUrHhUf1e_aYq7z3Tf/preview %}
 
-{% include googleDrivePlayer.html id=1PgB9juJWE5ZqCHDbbT7nUs2WQxYkYOth/preview %}
+{% include googleDrivePlayer8.html id=1PgB9juJWE5ZqCHDbbT7nUs2WQxYkYOth/preview %}
 
 
 ### Support or Contact
