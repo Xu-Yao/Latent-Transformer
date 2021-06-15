@@ -1,7 +1,3 @@
----
-driveId: 1QTMCvseB4X81T8JIDOGLxx7ZsIu975_g/preview
----
-
 
 ## Learning A Latent Transformer for Disentangled and Identity-Preserving FaceEditing
 
@@ -37,7 +33,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Xu-Yao/Latent-Transformer/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-{% include googleDrivePlayer.html id=page.driveId %}
+{% include googleDrivePlayer.html id=1QTMCvseB4X81T8JIDOGLxx7ZsIu975_g/preview %}
 
 ### Support or Contact
 
