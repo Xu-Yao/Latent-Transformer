@@ -1,3 +1,8 @@
+---
+driveId: 1QTMCvseB4X81T8JIDOGLxx7ZsIu975_g/preview
+---
+
+
 ## Learning A Latent Transformer for Disentangled and Identity-Preserving FaceEditing
 
 You can use the [editor on GitHub](https://github.com/Xu-Yao/Latent-Transformer/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
@@ -31,6 +36,8 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Xu-Yao/Latent-Transformer/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+{% include googleDrivePlayer.html id=page.driveId %}
 
 ### Support or Contact
 
